@@ -16,9 +16,10 @@ If you have any further questions or require additional support, please do not h
 
 Best regards,
 
-Manish Sharma
-[Technizer India](https://www.technizerindia.com)
-[My LinkedIn Profile](https://www.linkedin.com/in/manish-sharma-mentor/)
+**Manish Sharma**
+
+[![Technizer India](https://img.shields.io/badge/Technizer%20India-Visit%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.technizerindia.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-sharma-mentor/)
 
 ---
 
@@ -42,14 +43,16 @@ This hub serves as:
 
 ---
 
-## 🛠️ Focus Areas
+## 🛠️ Technologies Covered
 
-Training delivered for Bajaj Finance covers:
-- **GitHub Copilot** — AI-assisted coding, prompt engineering for developers, and productivity best practices.
-- **GitHub & Git** — Version control workflows, branching strategies, pull requests, and code reviews.
-- **DevOps** — CI/CD pipelines, automation, and modern software delivery practices.
-- **Full-Stack Development** — TypeScript, React, Node.js, and related technologies.
-- **Cloud & AI** — Cloud-native development and integrating AI tools into engineering workflows.
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -73,6 +76,14 @@ Technizer India is a leading IT training and consultancy firm based in Pune, spe
 - Digital transformation and legacy system modernization
 - Staff augmentation and talent deployment
 
-> *"Inspired by impossible"* — Technizer India | [www.technizerindia.com](https://www.technizerindia.com)
+> *"Inspired by impossible"* — Technizer India
+
+---
+
+## 📬 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-contactus%40technizerindia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactus@technizerindia.com)
+[![Website](https://img.shields.io/badge/Website-www.technizerindia.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.technizerindia.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-sharma-mentor/)
 
 ---
