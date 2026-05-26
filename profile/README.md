@@ -18,7 +18,7 @@ Best regards,
 
 Manish Sharma
 [Technizer India](https://www.technizerindia.com)
-[My LinkedIn Profile](https://www.linkedin.com/in/manishsharma30/)
+[My LinkedIn Profile](https://www.linkedin.com/in/manish-sharma-mentor/)
 
 ---
 
